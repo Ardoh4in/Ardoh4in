@@ -69,10 +69,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ardoh4in/Ardoh4in/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ardoh4in.Ardoh4in&"  />
 </div>
