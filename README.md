@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Eu sou Gabriel Ardohain.<br><br>- 🔭 Sou estudante em Análise e Desenvolvimento de Sistemas.<br>- 📚 Atualmente estou aprendendo sobre UX/ UI Design.<br>- ⚡ No meu tempo livre e leio, jogo, prático pintura e ouço música.</p>
+<p align="left">Eu sou Gabriel Ardohain.<br><br>- 🔭 Sou estudante em Análise e Desenvolvimento de Sistemas.<br>- 📚 Atualmente estou aprendendo sobre UX/ UI Design.<br>- ⚡ No meu tempo livre eu leio, jogo, prático pintura e ouço música.</p>
 
 ###
 
